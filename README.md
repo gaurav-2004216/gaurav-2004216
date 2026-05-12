@@ -71,49 +71,26 @@ I design and maintain cloud-native infrastructure with a focus on **automation**
 
 ## 🚀 Featured Projects
 
-> 📌 *Pin your best repos below and describe them here*
+### 🔷 [3-Tier AWS Infrastructure with Terraform](https://github.com/gaurav-2004216/repo1)
+> Designed and provisioned a production-style 3-tier architecture (ALB → EC2 → RDS MySQL) inside a custom VPC with public/private subnets, Terraform modules, and remote state on S3 with DynamoDB locking. Entire stack reproducible from scratch with a single `terraform apply`, achieving 99.9% uptime in testing.
 
-### 🔷 [Project Name 1](https://github.com/yourusername/repo1)
-> *e.g., Terraform modules for provisioning a production-grade AWS EKS cluster with auto-scaling node groups, VPC setup, and IAM roles.*
-
-`Terraform` `AWS EKS` `Kubernetes` `Helm`
+`Terraform` `AWS VPC` `EC2` `RDS MySQL` `ALB` `S3` `DynamoDB`
 
 ---
 
-### 🔷 [Project Name 2](https://github.com/yourusername/repo2)
-> *e.g., End-to-end GitHub Actions CI/CD pipeline: build Docker image → push to ECR → deploy to EKS with rolling updates.*
+### 🔷 [CI/CD Pipeline: GitHub → Jenkins → Docker → EKS](https://github.com/gaurav-2004216/repo2)
+> Zero-touch delivery pipeline — code push to GitHub triggers a Jenkins job that builds with Maven, runs SonarQube quality gates, pushes a Docker image to ECR, and deploys a rolling update to EKS. Failed deployments auto-rollback within 2 minutes.
 
-`GitHub Actions` `Docker` `ECR` `Kubernetes`
-
----
-
-### 🔷 [Project Name 3](https://github.com/yourusername/repo3)
-> *e.g., Monitoring stack deployed on Kubernetes using Prometheus + Grafana with custom dashboards and alerting rules.*
-
-`Prometheus` `Grafana` `Kubernetes` `Helm`
+`Jenkins` `Maven` `SonarQube` `Docker` `ECR` `Kubernetes` `GitHub`
 
 ---
 
-## 📊 GitHub Stats
+### 🔷 [Kubernetes Observability Stack (Prometheus + Grafana)](https://github.com/gaurav-2004216/repo3)
+> Full observability stack deployed on a K8s cluster via Helm — Prometheus scraping metrics from 5+ services, Grafana dashboards for CPU, memory, latency, and pod health. Alertmanager wired to post Slack notifications on threshold breaches.
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900)
-
-</div>
+`Prometheus` `Grafana` `Kubernetes` `Helm` `Alertmanager` `Slack`
 
 ---
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
-</div>
 
 ---
 
@@ -124,4 +101,3 @@ I design and maintain cloud-native infrastructure with a focus on **automation**
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=FF9900&style=flat-square)
 
 </div>
-
