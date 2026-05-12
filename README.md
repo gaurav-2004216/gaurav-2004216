@@ -159,7 +159,7 @@ Real-world DevOps: automated CI/CD with Jenkins + SonarQube, containerized apps 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/narkhedegaurav)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravpnarkhede@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravpanrkhede@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaurav-2004216)
 
 <br/>
@@ -175,8 +175,6 @@ Real-world DevOps: automated CI/CD with Jenkins + SonarQube, containerized apps 
 *"Automate everything. Document everything. Break nothing in prod."*
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=gaurav-2004216&color=FF9900&style=flat-square&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=100&section=footer" />
 
