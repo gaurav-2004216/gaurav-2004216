@@ -154,31 +154,6 @@ Real-world DevOps: automated CI/CD with Jenkins + SonarQube, containerized apps 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaurav-2004216&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900&text_color=ffffff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-2004216&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900&text_color=ffffff" />
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gaurav-2004216&theme=dark&hide_border=true&background=0d1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gaurav-2004216&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
